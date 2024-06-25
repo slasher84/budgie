@@ -1,6 +1,6 @@
 # Budgie
 
-# Budgie the DLL injector is about to be superseded by Budgie the Mod. If you're a Steam User, you want the mod.
+# Budgie the DLL injector has been superseded by Budgie the mod, documentation is being updated and may take some time, if you have issues, try the discord.
 
 Budgie is a DLL injector for DCS World. This application is designed to inject specified DLL files into DCS World, enabling enhanced functionality, modifications or software fixes.
 
